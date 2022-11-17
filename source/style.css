@@ -121,7 +121,7 @@ a {
 }
 .header .servises .search_form .search_icon {
   display: block;
-  background-image: url(/img/icons/search_icon.png);
+  background-image: url(img/icons/search_icon.png);
   background-color: transparent;
   width: 17px;
   height: 16px;
